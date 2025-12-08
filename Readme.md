@@ -56,7 +56,6 @@ A full digital marketing strategy designed to increase brand awareness, strength
 
 ### **Mariam Ismail**
 - SWOT Analysis  
-- Content explanation & purpose  
 
 ### **Zeyad Abd El Ghafar**
 - Marketing Mix  
@@ -71,10 +70,10 @@ A full digital marketing strategy designed to increase brand awareness, strength
 
 ### **Mariam Mostafa**
 - Value Proposition  
-- Content explanation & purpose  
 
 ### **Ahmed Ibrahim**
 - Accounts Analysis
+- Content Creation
 - Analysis Report  
 - Competitive Analysis  
 - Buyer Persona  
