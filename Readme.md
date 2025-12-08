@@ -1,46 +1,83 @@
-[DEPI Project.md](https://github.com/user-attachments/files/22536442/DEPI.Project.md)
-# 📌 Project Overview  
+# 📌 Project Overview
 
-## 🔹 Project Name:  
-**Digital Marketing Strategy for Al Salama El Malaky Laboratory**  
+## 🔹 Project Name
+**Al Salama Al Malaky Laboratory – Full Digital Marketing Strategy**
 
-## 🔹 Project Idea:  
-This project was part of the **Digital Egypt Pioneers Initiative – Digital Marketing Specialist Track with YAT Learning Center**.  
-We developed a full marketing strategy for **Al Salama El Malaky Laboratory**, aiming to position it as a leading lab in Alexandria by leveraging innovative campaigns, structured content, and strategic planning.  
+## 🔹 Project Idea
+A complete digital marketing project covering research, analysis, content direction, media buying, SEO, website creation, implementation, and final recommendations.
 
----
-
-## 👥 Team Members & Contributions:  
-
-- **Abdelrhman Ahmed (Team Leader)**  
-  * Introduction  
-  * Objectives (SMART)  
-  * Full Media Buying Plan  
-
+## 👥 Team Members
+- **Abdulrhman Ahmed** (Team Leader)  
 - **Mariam Ismail**  
-  * SWOT Analysis  
-  * Content Explanation & Objectives  
-
 - **Zeyad Abd El Ghafar**  
-  * Marketing Mix (7Ps)  
-  * Buyer Persona  
-
 - **Feras Romany**  
-  * Segmentation  
-  * Buyer Persona  
-
 - **Mariam Mostafa**  
-  * Value Proposition  
-  * Content Explanation & Objectives  
-
-- **Ahmed Ibrahim**  
-  * Accounts Analysis  
-  * Competitive Analysis  
-  * Buyer Persona  
+- **Ahmed Ibrahim**
 
 ---
 
-## 🎯 Project Goals (SMART):  
-1. Increase brand awareness by 25% within one year.  
-2. Improve brand perception & differentiation from competitors via creative ad campaigns in 3–6 months.  
-3. Enhance customer satisfaction by 20% within 3–6 months.  
+## 🎯 Project Goals
+- Create a full, structured, data-driven digital marketing strategy.  
+- Increase brand awareness and improve customer perception.  
+- Execute practical work through SEO, media buying, and website development.
+
+---
+
+## 📝 Work Plan (Order of Work)
+1. Introduction  
+2. BMC Model  
+3. SMART Objectives  
+4. SWOT Analysis  
+5. Marketing Mix  
+6. Account Analysis  
+7. Competitive Analysis  
+8. Segmentation & Buyer Persona  
+9. Content Creation  
+10. Media Buying Plan  
+11. SEO Plan  
+12. Website  
+13. Analysis Report  
+14. Recommendations
+
+---
+
+## 👨‍🏫 Instructor
+**Eng. Dr. Safy El-Din Ahmed – YAT Learning Center**
+
+---
+
+# 📌 Task Distribution
+
+### **Abdulrhman Ahmed (Team Leader)**
+- Introduction  
+- SMART Objectives  
+- Media Buying Plan  
+- Analysis Report  
+- Team supervision & coordination  
+
+### **Mariam Ismail**
+- SWOT Analysis  
+- Content explanation and purpose  
+
+### **Zeyad Abd El Ghafar**
+- Marketing Mix  
+- Buyer Persona  
+- Website development  
+- SEO Plan (keywords + topics)  
+- Recommendations  
+
+### **Feras Romany**
+- Segmentation  
+- Buyer Persona  
+
+### **Mariam Mostafa**
+- Value Proposition  
+- Content explanation and purpose  
+
+### **Ahmed Ibrahim**
+- Accounts Analysis  
+- Competitive Analysis  
+- Buyer Persona  
+- BMC – Business Model Canvas  
+- Media buying implementation & results  
+
