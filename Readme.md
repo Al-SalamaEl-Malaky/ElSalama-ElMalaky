@@ -4,22 +4,22 @@
 **Al Salama Al Malaky Laboratory – Full Digital Marketing Strategy**
 
 ## 🔹 Project Idea
-A complete digital marketing project covering research, analysis, content direction, media buying, SEO, website creation, implementation, and final recommendations.
+A full digital marketing strategy designed to increase brand awareness, strengthen market positioning, and highlight the laboratory’s accuracy, speed, and service excellence across Alexandria.
 
 ## 👥 Team Members
-- **Abdulrhman Ahmed** (Team Leader)  
-- **Mariam Ismail**  
-- **Zeyad Abd El Ghafar**  
-- **Feras Romany**  
-- **Mariam Mostafa**  
+- **Abdulrhman Ahmed** (Team Leader)
+- **Mariam Ismail**
+- **Zeyad Abd El Ghafar**
+- **Feras Romany**
+- **Mariam Mostafa**
 - **Ahmed Ibrahim**
 
 ---
 
 ## 🎯 Project Goals
-- Create a full, structured, data-driven digital marketing strategy.  
-- Increase brand awareness and improve customer perception.  
-- Execute practical work through SEO, media buying, and website development.
+- Increase brand awareness by **25% within one year**.  
+- Enhance brand perception & differentiation through **innovative advertising campaigns within 3–6 months**.  
+- Improve customer satisfaction ratings by **20% within 3–6 months**.
 
 ---
 
@@ -37,7 +37,7 @@ A complete digital marketing project covering research, analysis, content direct
 11. SEO Plan  
 12. Website  
 13. Analysis Report  
-14. Recommendations
+14. Recommendations  
 
 ---
 
@@ -52,18 +52,17 @@ A complete digital marketing project covering research, analysis, content direct
 - Introduction  
 - SMART Objectives  
 - Media Buying Plan  
-- Analysis Report  
-- Team supervision & coordination  
+- Supervision & coordination
 
 ### **Mariam Ismail**
 - SWOT Analysis  
-- Content explanation and purpose  
+- Content explanation & purpose  
 
 ### **Zeyad Abd El Ghafar**
 - Marketing Mix  
 - Buyer Persona  
 - Website development  
-- SEO Plan (keywords + topics)  
+- SEO Plan (keyword research + topics)  
 - Recommendations  
 
 ### **Feras Romany**
@@ -72,12 +71,11 @@ A complete digital marketing project covering research, analysis, content direct
 
 ### **Mariam Mostafa**
 - Value Proposition  
-- Content explanation and purpose  
+- Content explanation & purpose  
 
 ### **Ahmed Ibrahim**
 - Accounts Analysis  
 - Competitive Analysis  
 - Buyer Persona  
-- BMC – Business Model Canvas  
+- Business Model Canvas (BMC)  
 - Media buying implementation & results  
-
