@@ -74,7 +74,8 @@ A full digital marketing strategy designed to increase brand awareness, strength
 - Content explanation & purpose  
 
 ### **Ahmed Ibrahim**
-- Accounts Analysis  
+- Accounts Analysis
+- Analysis Report  
 - Competitive Analysis  
 - Buyer Persona  
 - Business Model Canvas (BMC)  
